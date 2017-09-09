@@ -1,0 +1,6 @@
+infer-out/
+bin/
+target/
+.classpath
+.settings/
+.project
